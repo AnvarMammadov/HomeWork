@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Memme_eu95\source\repos\HomeWork\HomeWork\Source.cpp(147,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Memme_eu95\source\repos\HomeWork\HomeWork\Source.cpp(163,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Memme_eu95\source\repos\HomeWork\HomeWork\Source.cpp(163,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Memme_eu95\source\repos\HomeWork\HomeWork\Source.cpp(198,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Memme_eu95\source\repos\HomeWork\HomeWork\Source.cpp(217,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HomeWork.vcxproj -> C:\Users\Memme_eu95\source\repos\HomeWork\x64\Debug\HomeWork.exe
